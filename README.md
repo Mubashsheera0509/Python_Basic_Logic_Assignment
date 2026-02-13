@@ -1,7 +1,7 @@
 # Python Basic Logic Programs
 
 ## Overview
-This repository contains a set of simple Python programs created as part of my internship assignment.  
+This repository contains a set of simple Python programs created as part of my internship assignments.  
 The purpose of these exercises is to practice basic programming concepts such as conditional statements, loops, and string manipulation.
 
 ---
